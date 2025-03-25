@@ -1,2 +1,6 @@
 Change frmo conflict Branch
+<<<<<<< HEAD
 Change from main branch
+=======
+Change 2 from conflict branch
+>>>>>>> conflictbranch
